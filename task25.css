@@ -1,0 +1,27 @@
+.head{
+    display: none;
+   
+}
+.idSearch{
+    display: none;
+}
+.image{
+    width: 200px;
+   height : 200px;
+   display: flex;
+   margin-right: 20px;
+
+}
+.break{
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+body{
+    background-image: linear-gradient(to right top, #331317, #381115, #3c0e13, #400b0f, #44080b, #4d0910, #570b14, #610c18, #741425, #871c32, #9b2442, #ae2d52);
+}
+.details{
+    font-family: 'Cinzel', serif;
+}
+
